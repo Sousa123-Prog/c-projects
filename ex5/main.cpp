@@ -18,7 +18,7 @@ void exibir() {
 }
 
 int main() {
-    cout << "Bem vindo ao registro de idade" << endl << "Aqui vai as seguintes instruções: 1 para inserir dados e 2 para ver os dados" << endl;
+    cout << "Bem vindo ao registro de idade" << endl << "Aqui vai as seguintes instruções: 1 para inserir dados" << endl;
     int input;
     cin >> input;
     for(;;) {
